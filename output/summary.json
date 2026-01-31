@@ -16,9 +16,9 @@
   "invalid_latitude_count": 0,
   "valid_coordinate_rows": 10,
   "bbox": {
-    "min_lon": 121.0585,
-    "min_lat": 14.6479,
-    "max_lon": 121.0748,
-    "max_lat": 14.6591
+    "min_lon": 124.3054,
+    "min_lat": 11.0234,
+    "max_lon": 125.5892,
+    "max_lat": 12.521
   }
 }
