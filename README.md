@@ -4,7 +4,7 @@ GmE 205 Lab Exercise 1
 
 ## Description
 
-Codebase for GmE 205 Lab Exercise 1
+Codebase for GmE 205 Lab Exercise 1.
 
 ## Getting Started
 
@@ -53,3 +53,4 @@ Contributors names and contact info
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgments
+
