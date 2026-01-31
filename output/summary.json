@@ -1,0 +1,24 @@
+{
+  "file": "data/points.csv",
+  "rows": 10,
+  "columns": 3,
+  "column_names": [
+    "id",
+    "lon",
+    "lat"
+  ],
+  "missing_values_per_column": {
+    "id": 0,
+    "lon": 0,
+    "lat": 0
+  },
+  "invalid_longitude_count": 0,
+  "invalid_latitude_count": 0,
+  "valid_coordinate_rows": 10,
+  "bbox": {
+    "min_lon": 121.0585,
+    "min_lat": 14.6479,
+    "max_lon": 121.0748,
+    "max_lat": 14.6591
+  }
+}
